@@ -9,7 +9,7 @@ VOIS AICTE Batch 1 (2026–2027) Major Project
 - `Project_Report_Seasonal_Agriculture_Performance.pdf` — supporting project report
 - `charts/` — analysis charts
 - `code_snippets/` — code images used in the PPT
-- `SUBMISSION_CHECKLIST.txt`
+
 
 ## Dataset
 4000 rows × 28 columns.
